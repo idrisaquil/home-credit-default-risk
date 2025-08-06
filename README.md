@@ -1,4 +1,4 @@
-This project tackles the critical business need of predicting loan repayment at Home Credit. The core objective is to leverage historical loan application data and build a robust AI model that can accurately predict whether an applicant will be able to repay their loan. 
+This project tackles the critical business need of predicting loan repayment at Home Credit. The core objective is to leverage historical loan application data and build a robust model that can accurately predict whether an applicant will be able to repay their loan. 
 
 Many individuals face difficulties securing loans due to limited or non-existent credit histories. Home Credit aims to address this challenge by broadening financial inclusion for the unbanked population through providing positive and safe borrowing experiences. To achieve this, Home Credit relies on various alternative data sources, including telecommunication and transactional information, to assess repayment abilities. The challenge lies in developing a model that can effectively utilize this data to identify potential defaulters while ensuring that creditworthy individuals are not unfairly rejected. 
 
